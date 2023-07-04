@@ -1,8 +1,12 @@
-### Hi there 👋
-
- I AM NANTALE TRACY CYNTHIA CURRENTLY DOING MY INTERNSHIP AT RENU.
-I RECENTLY GRADUATED AS A COMPUTER ENGINEER FROM BUSITEMA UNIVERSITY.
-I AM SO PASSIONATE ABOUT NETWORKING.
+👯 Hello! My name is Nantale Tracy Cynthia, and I am a computer engineering graduate from Busitema University. 
+👯 Currently, I am pursuing my passion for networking and cybersecurity as an intern at RENU (Research and Education Network for Uganda).
+👯 During my time at Busitema University, I gained a comprehensive understanding of computer engineering principles, including hardware, software, and network systems. 
+👯 My coursework provided me with a strong foundation in programming languages, computer architecture, and data structures.
+👯 Through my internship at RENU, I have the opportunity to apply my theoretical knowledge in a practical setting. 
+👯 Working alongside experienced professionals, I believe I am going to develop skills in network administration, troubleshooting, and ensuring data security. 
+👯 My passion for networking and cybersecurity stems from a deep desire to contribute to creating secure and reliable communication infrastructures. 
+👯 I am a dedicated and proactive individual, always seeking opportunities to expand my knowledge and skills in the field. 
+👯 Thank you for taking the time to review my profile.
 
 <!--
 **nantaletracy/nantaletracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
