@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ I AM NANTALE TRACY CYNTHIA CURRENTLY DOING MY INTERNSHIP AT RENU.
+I RECENTLY GRADUATED AS A COMPUTER ENGINEER FROM BUSITEMA UNIVERSITY.
+I AM SO PASSIONATE ABOUT NETWORKING.
+
 <!--
 **nantaletracy/nantaletracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
