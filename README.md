@@ -162,20 +162,35 @@ Despite encountering challenges and errors, the lessons learned and the knowledg
 Thank you for taking the time to review my profile.
 
 WEEK 3
+
 In week 3, I learnt the following;
+
 SWITCHING
 	* Layer 2 switching, its advantages and limitations.
+
 	*Differences between bridges and switches.
+
 	*The Spanning Tree Protocol in brief 
+
 	*LAN switch types.
+
 VLANs
+
 I also looked at VLANs, this included the benefits, the types (static and dymnamic) as well as access and trunk links.
+
 This also involved doing a practical lab of configuring VLANs.
+
 	I also got to differentiate between the OSI and TCP/IP model. Also studied the format of ip addresses both IPv6 and IPv4.
+
 	The different classses of IP addresses which included private, public, etc.
+
 	I also learnt subnetting and am now capable of planning for an IP address.
 
+
 ROUTING
+
 	I learnt that routing can be done by layer 3 switches and routers.
+
 	*Learnt about static routing and managed to configure static routes in Cisco packet tracer.
+
 	*Also learnt about the different dynamic routing protocols ie. OSPF, IS-IS, BGP and when to use them.
