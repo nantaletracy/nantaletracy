@@ -4,11 +4,11 @@ Currently, I am pursuing my passion for networking and cybersecurity as an inter
 
 During my time at Busitema University, I gained a comprehensive understanding of computer engineering principles, including hardware, software, and network systems.
  
-My coursework provided me with a strong foundation in programming languages, computer architecture, and data structures.
+My coursework gave me a strong foundation in programming languages, computer architecture, and data structures.
 
 Through my internship at RENU, I have the opportunity to apply my theoretical knowledge in a practical setting. 
 
-Working alongside experienced professionals, I am going to develop skills in network administration, troubleshooting, and ensuring data security. 
+Working alongside experienced professionals, I will develop skills in network administration, troubleshooting, and ensuring data security. 
 
 My passion for networking and cybersecurity stems from a deep desire to contribute to creating secure and reliable communication infrastructures. 
 
@@ -31,7 +31,7 @@ We also looked at how enterprises automate the installation of operating systems
 VERSION CONTROL
 Version control is a critical aspect of software development and technology management. 
 
-It involves tracking and managing changes to files, code, and other digital assets over time. Version control systems (VCS) are tools that enable developers to collaborate, track modifications, and maintain a history of their work. 
+It involves tracking and managing changes to files, code, and other digital assets over time. Version control systems (VCS) enable developers to collaborate, track modifications, and maintain a history of their work. 
 
 Here are some key concepts and popular version control systems used in the tech industry:
 
@@ -100,7 +100,7 @@ Overall, virtualization offers increased flexibility, resource optimization, cos
 
 Containerization
 
-Containerization is a lightweight form of virtualization that allows applications and their dependencies to be packaged and isolated in containers. Containers provide a consistent and portable environment for running applications, regardless of the underlying infrastructure. Each container contains the application, along with all the necessary libraries, binaries, and configuration files.
+A containerization is a lightweight form of virtualization that allows applications and their dependencies to be packaged and isolated in containers. Containers provide a consistent and portable environment for running applications, regardless of the underlying infrastructure. Each container contains the application, along with all the necessary libraries, binaries, and configuration files.
 
 Advantages of containerization include:
 
@@ -124,9 +124,9 @@ Microservices Architecture
 
 These tools, along with others in the container ecosystem, have revolutionized software deployment and are widely used in modern software development and deployment workflows.
 
-After the session on virtualization and containerization, we were assigned to install windows server 2019 and ubuntu server using accounts on VNC viewer. The assignment also included installing docker and pi-hole on both virtual machines.
+After the session on virtualization and containerization, we were assigned to install windows server 2019 and ubuntu servers using accounts on VNC viewer. The assignment also included installing docker and pi-hole on both virtual machines.
 
-We were also assigned to install active directory on the Windows server.   
+We were also assigned to install an active directory on the Windows server.   
 
 I had an exciting and fulfilling experience recently when I successfully installed Ubuntu Server, set up Docker, and deployed Pi-hole using Docker Compose. 
 
@@ -158,15 +158,15 @@ It was an excellent opportunity to explore the capabilities and features that Wi
 
 Overall, the journey of installing Ubuntu Server, setting up Docker, deploying Pi-hole, and venturing into Windows Server with Active Directory was a captivating experience. 
 
-Despite encountering challenges and errors, the lessons learned and the knowledge gained were invaluable. This experience has not only expanded my technical proficiency but has also reinforced the idea that learning from mistakes and troubleshooting are integral parts of growth and expertise in the ever-evolving world of technology.
+Despite encountering challenges and errors, the lessons learned and the knowledge gained was invaluable. This experience has not only expanded my technical proficiency but has also reinforced the idea that learning from mistakes and troubleshooting are integral parts of growth and expertise in the ever-evolving world of technology.
 Thank you for taking the time to review my profile.
 
 WEEK 3
 
-In week 3, I learnt the following;
+In week 3, I learned the following;
 
 SWITCHING
-	* Layer 2 switching, its advantages and limitations.
+	* Layer 2 switching, its advantages, and limitations.
 
 	*Differences between bridges and switches.
 
@@ -176,24 +176,24 @@ SWITCHING
 
 VLANs
 
-I also looked at VLANs, this included the benefits, the types (static and dymnamic) as well as access and trunk links.
+I also looked at VLANs, this included the benefits, the types (static and dynamic) as well as access and trunk links.
 
-This also involved doing a practical lab of configuring VLANs.
+This also involved doing a practical lab on configuring VLANs.
 
-	I also got to differentiate between the OSI and TCP/IP model. Also studied the format of ip addresses both IPv6 and IPv4.
+	I also got to differentiate between the OSI and TCP/IP models. Also studied the format of IP addresses both IPv6 and IPv4.
 
-	The different classses of IP addresses which included private, public, etc.
+	The different classes of IP addresses included private, public, etc.
 
-	I also learnt subnetting and am now capable of planning for an IP address.
+	I also learned subnetting and am now capable of planning for an IP address.
 
 
 ROUTING
 
-	I learnt that routing can be done by layer 3 switches and routers.
+	I learned that routing can be done by layer 3 switches and routers.
 
 	*Learnt about static routing and managed to configure static routes in Cisco packet tracer.
 
-	*Also learnt about the different dynamic routing protocols ie. OSPF, IS-IS, BGP and when to use them.
+	*Also learned about the different dynamic routing protocols ie. OSPF, IS-IS, BGP, and when to use them.
         
 	*I and my team were able to plan for an ipv4 address and created subnets that could match our topology without wasting IP addresses.
 	 
@@ -212,10 +212,10 @@ WIRELESS COMMUNICATION
 	
 	The 5 GHz band has 25 non-overlapping channels of 20 MHz but can be aggregated to 40 MHz and 80 MHz
 	
-	We noticed that before setting up a wireless network, several considerations should be made for example, the number of users, where the access point is to be deployed, whether wireless is the best option for the network medium, etc.
+	We noticed that before setting up a wireless network several considerations should be made, for example, the number of users, where the access point is to be deployed, whether wireless is the best option for the network medium, etc.
 
 WEEK 4
-	This was a systems week and I learned a lot. it involved an introduction to the Linux operating system.
+	This was a systems week, and I learned a lot. It involved an introduction to the Linux operating system.
 	
 	We looked at the Linux shell (bash), the kernel, and system calls. 
 
