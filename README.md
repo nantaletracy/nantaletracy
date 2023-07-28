@@ -194,3 +194,37 @@ ROUTING
 	*Learnt about static routing and managed to configure static routes in Cisco packet tracer.
 
 	*Also learnt about the different dynamic routing protocols ie. OSPF, IS-IS, BGP and when to use them.
+        
+	*I and my team were able to plan for an ipv4 address and created subnets that could match our topology without wasting IP addresses.
+	 
+	*We then simulated the topology using a Cisco Packet tracer simulation tool and all devices had reachability with each other using static routes.
+		
+	*In the same week, we were grouped into 2 groups, five people each to configure a topology with is-is and the other with OSPF.
+	
+	*This was so challenging at first but we learned a lot and managed to achieve reachability for both protocols.
+
+WIRELESS COMMUNICATION
+	This is communication-based on radio waves. It can be used for Access Networks or Infrastructure Links. We mainly looked at Wi-Fi, an IEEE 802.11 set of wireless standards.
+	
+	The two prominent Access WI-Fi bands are 2.4GHz and 5GHz. 
+	
+	The 2.4 GHz band has 14 overlapping channels of 22MHz. Channels 1,6 and 11 are the only channels that do not overlap out of the 14.
+	
+	The 5 GHz band has 25 non-overlapping channels of 20 MHz but can be aggregated to 40 MHz and 80 MHz
+	
+	We noticed that before setting up a wireless network, several considerations should be made for example, the number of users, where the access point is to be deployed, whether wireless is the best option for the network medium, etc.
+
+WEEK 4
+	This was a systems week and I learned a lot. it involved an introduction to the Linux operating system.
+	
+	We looked at the Linux shell (bash), the kernel, and system calls. 
+
+	We also navigated the filesystem in Linux.
+	
+	In the practical bit, we learned commands like sudo su, adduser, changing user rights on a file/directory using chmod, and changing file and folder owners using chown.
+	We also looked at the change password command "passwd", changing a user group, adding a user to a sudoers group, listing all users, listing all groups, how to create a file using the "touch" command, deleting a user,
+	copying contents of one file to another, moving a file to another directory, using Ansible, the awk command, and many more.
+	
+	We also researched Webmin, which I found to be a web-based system administration tool for Unix-like servers that allows controlling many machines through a single interface or seamless login on other Wemin hosts on the same subnet/LAN.
+
+
