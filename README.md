@@ -23,8 +23,7 @@ We also looked at how Linux has evolved.
 
 Some of the Linux branches are Slackware Linux, Debian, Redhat, CentOS, and Fedora.
 
-I learned that when installing operating systems, several specifications are considered. Based on the purpose of the installation, one is guided on how to allocate 
-resources, the suitable operating system, and the life of the operating system are all considered.
+I learned that when installing operating systems, several specifications are considered. Based on the purpose of the installation, one is guided on how to allocate resources, the suitable operating system, and the life of the operating system are all considered.
 
 We also looked at how enterprises automate the installation of operating systems. 
  
@@ -38,21 +37,20 @@ Here are some key concepts and popular version control systems used in the tech 
 Centralized Version Control Systems (CVCS): These systems, like Subversion (SVN), have a central server that stores the entire repository's history. Developers check out files from the central server, make changes locally, and then commit them back to the server. It allows for collaboration but can become a single point of failure.
 
 Distributed Version Control Systems (DVCS): In DVCS, such as Git and Mercurial, each developer has a complete copy of the repository, including its entire history. 
-					    This eliminates the reliance on a central server and enables offline work. 
-					    Developers can commit changes locally, create branches, and easily merge their work with others.
+This eliminates the reliance on a central server and enables offline work. 
+Developers can commit changes locally, create branches, and easily merge their work with others.
 
 Commits: A commit represents a saved snapshot of changes made to files in the repository. 
 	Each commit is typically accompanied by a commit message that describes the changes made. 
 	Commits provide a way to track progress and revert to previous states if needed.
-
 Branching and Merging: Version control systems support branching, allowing developers to create separate lines of development. 
                        Branches help isolate new features or bug fixes, and once the changes are complete, they can be merged back into the main branch (often called the "master" or "main" branch).
 
 Pull Requests: Pull requests, often used in Git-based systems, are requests made by developers to merge their changes from one branch into another (e.g., from a feature branch into the main branch). 
-               It facilitates code review and ensures that changes are thoroughly examined before being merged.
+ It facilitates code review and ensures that changes are thoroughly examined before being merged.
 
 Conflict Resolution: When multiple developers make conflicting changes to the same file or code section, a conflict occurs during merging. 
-                     Version control systems provide tools to help resolve these conflicts manually, typically by highlighting the conflicting sections for developers to resolve.
+                 Version control systems provide tools to help resolve these conflicts manually, typically by highlighting the conflicting sections for developers to resolve.
 
 Git is by far the most widely used version control system in the tech industry due to its distributed nature, speed, flexibility, and extensive tooling support. 
 Many popular platforms like GitHub, GitLab, and Bitbucket provide hosting services for Git repositories and offer additional features like issue tracking, continuous integration, and code review.
@@ -92,7 +90,6 @@ High Availability and Fault Tolerance: Virtualization technologies often include
 
 
 Disaster Recovery: Virtualization simplifies the process of backing up and restoring virtual machines, making disaster recovery plans more manageable. VM snapshots and replication mechanisms can be employed to create reliable backup copies, enabling faster recovery in case of system failures or data corruption.
-
 
 Testing and Development: Virtualization provides a cost-effective and efficient way to create test environments or develop applications. Virtual machines can be quickly set up with different configurations and operating systems, allowing developers to test and debug software in isolated environments.
 
@@ -226,5 +223,21 @@ WEEK 4
 	copying contents of one file to another, moving a file to another directory, using Ansible, the awk command, and many more.
 	
 	We also researched Webmin, which I found to be a web-based system administration tool for Unix-like servers that allows controlling many machines through a single interface or seamless login on other Wemin hosts on the same subnet/LAN.
+
+
+WEEK 5: NETWORK MONITORING
+In this week, we handled network monitoring tools. These help us keep track of the network and easily know when an issue arises. 
+Cacti: (mainly monitors performance of a network device)
+Cacti is an open-source network monitoring and graphing tool that helps IT professionals track and visualize the performance and health of network devices, servers, and other infrastructure components. Cacti allows users to create customized graphs and charts based on data collected from SNMP (Simple Network Management Protocol) queries. Its user-friendly web interface and advanced graph templating make it a popular choice for monitoring network bandwidth, latency, and other metrics, helping organizations optimize their network resources and troubleshoot issues efficiently.
+
+Nagios (mainly monitors availability of a network device)
+Nagios, also known as Nagios Core, is a widely-used open-source monitoring system that provides comprehensive monitoring and alerting capabilities for IT infrastructure. Nagios enables administrators to monitor the availability and performance of various services, applications, and systems. It supports active and passive checks, allowing it to collect real-time data from hosts and services. Nagios offers customizable notification alerts, enabling prompt response to incidents and minimizing downtime. Its extensible architecture and vast plugin ecosystem make it a versatile solution for monitoring a wide range of IT assets.
+
+LibreNMS: (mainly monitors the health of the devices)
+LibreNMS is a powerful open-source network monitoring and management platform designed for monitoring a diverse array of network devices and systems. It features an intuitive web-based interface and leverages SNMP to gather data from devices such as routers, switches, and servers. LibreNMS provides real-time insights into network performance, health, and availability, helping administrators proactively identify and address issues. With its robust API and integration capabilities, LibreNMS supports automated network discovery, alerting, visualization, and reporting, making it an effective tool for maintaining a stable and optimized network infrastructure.
+
+Each of these tools plays a significant role in network and IT infrastructure monitoring, helping organizations ensure the smooth operation of their systems, detect anomalies, and respond promptly to potential problems.
+
+
 
 
